@@ -1,0 +1,17 @@
+{
+  "name": "classifiers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nlpjs/lang-en": "^4.19.1",
+    "@nlpjs/utils": "^4.19.0",
+    "brain.js": "^2.0.0-beta.2",
+    "natural": "^2.4.5"
+  }
+}
